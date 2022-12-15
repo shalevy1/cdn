@@ -20,3 +20,6 @@ Append that URL with the path to the file you want to access in the project. For
 You can also take advantage of semantic versioning by adding @{version-number} to the repository name. You can target major, minor, and patch releases as desired.
 
 https://cdn.jsdelivr.net/gh/shalevy1/cdn/home.min.js
+
+
+https://cdn.jsdelivr.net/gh/shalevy1/cdn/data.js
