@@ -24,3 +24,6 @@ https://cdn.jsdelivr.net/gh/shalevy1/cdn/home.min.js
 
 
 https://cdn.jsdelivr.net/gh/shalevy1/cdn/data.js
+
+
+https://cdn.jsdelivr.net/gh/shalevy1/cdn/doc.png
